@@ -1,0 +1,40 @@
+[
+  {
+    "pause": "clarification",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Which specific role or engineering/professional track should this scout prioritize?",
+        "context": "A generic title covers multiple markets with different salary bands and skills.",
+        "suggestedAnswers": [
+          "Backend Software Engineering (Distributed Systems)",
+          "Machine Learning / AI Engineering",
+          "Data Analyst / Analytics",
+          "DevOps & Cloud Infrastructure",
+          "Full Stack Web Engineering"
+        ]
+      },
+      {
+        "id": "q2",
+        "question": "Confirm the target geography and work mode:",
+        "context": "Broad regions span multiple talent markets and commuting patterns.",
+        "suggestedAnswers": [
+          "Specific metro (Hybrid / On-site within 35 miles)",
+          "State-wide or country-wide remote",
+          "Nationwide remote"
+        ]
+      }
+    ]
+  },
+  {
+    "resume_answers": {
+      "q1": "Backend Software Engineering (Distributed Systems)",
+      "q2": "Austin Metro (Hybrid)"
+    },
+    "next": "search_plan_approval"
+  },
+  {
+    "status": "completed",
+    "postings": 30
+  }
+]

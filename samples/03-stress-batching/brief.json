@@ -1,0 +1,219 @@
+{
+  "id": "brief-cli-af8717db8f",
+  "requestId": "cli-af8717db8f",
+  "role": "Senior ML Research Engineer",
+  "location": "San Francisco, CA",
+  "generatedAt": "2026-11-09T15:30:40.443828+00:00",
+  "summary": "The San Francisco, CA market for Senior ML Research Engineer shows 4 unique postings in the analysed sample. Disclosed pay median is 0 USD with an IQR of 0–0. Hiring outlook is hard to fill based on volume and evidence quality.",
+  "hiringOutlook": {
+    "verdict": "Hard to fill",
+    "reason": "Based on 4 unique postings and 0.0% salary disclosure.",
+    "metricSummary": "4 unique postings · median 0 USD · disclosure 0.0%"
+  },
+  "demandVolume": {
+    "totalActivePostings": 4,
+    "sampleAnalyzed": 4,
+    "trend30Day": 0,
+    "averagePostingAgeDays": 21.5,
+    "volumeTimeline": []
+  },
+  "compensation": {
+    "currency": "USD",
+    "medianSalary": 0,
+    "percentile25": 0,
+    "percentile75": 0,
+    "salaryMin": 0,
+    "salaryMax": 0,
+    "disclosedPayPercentage": 0.0,
+    "distributionBands": [],
+    "seniorityBreakdown": [
+      {
+        "level": "Senior",
+        "median": 0,
+        "min": 0,
+        "max": 0
+      },
+      {
+        "level": "Staff/Lead",
+        "median": 0,
+        "min": 0,
+        "max": 0
+      }
+    ]
+  },
+  "skillsAndRequirements": {
+    "mustHaveSkills": [
+      {
+        "name": "Machine Learning",
+        "frequency": 2,
+        "percentage": 50
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Java",
+        "frequency": 1,
+        "percentage": 25
+      }
+    ],
+    "typicalYearsExperience": 7.8,
+    "experienceDistribution": [
+      {
+        "bracket": "6-8 years",
+        "percentage": 75
+      },
+      {
+        "bracket": "8+ years",
+        "percentage": 25
+      }
+    ]
+  },
+  "employerCompetition": {
+    "topEmployers": [
+      {
+        "name": "Google",
+        "openPositions": 2,
+        "marketSharePercent": 50,
+        "type": "Direct"
+      },
+      {
+        "name": "Sol",
+        "openPositions": 1,
+        "marketSharePercent": 25,
+        "type": "Staffing"
+      },
+      {
+        "name": "Apple",
+        "openPositions": 1,
+        "marketSharePercent": 25,
+        "type": "Direct"
+      }
+    ],
+    "agencyVsDirect": {
+      "directPercent": 50,
+      "agencyPercent": 50
+    }
+  },
+  "observedTitles": [
+    {
+      "title": "Senior AI/ML Engineer, Cloud AI Research",
+      "count": 2,
+      "sharePercent": 50
+    },
+    {
+      "title": "Lead Recruiter",
+      "count": 1,
+      "sharePercent": 25
+    },
+    {
+      "title": "Senior ML Research Engineer, Post-Training for Personalization",
+      "count": 1,
+      "sharePercent": 25
+    }
+  ],
+  "confidenceInsights": [
+    {
+      "id": "conf-comp",
+      "category": "Compensation",
+      "claim": "Median disclosed compensation is 0 USD (IQR 0–0).",
+      "confidence": "Low",
+      "confidenceScore": 30,
+      "confidenceRationale": "Computed from disclosed, normalized salaries only; missing and predicted values excluded.",
+      "evidencePostingCount": 0,
+      "evidencePercentage": 0.0,
+      "samplePostingIds": [
+        "adz-5932219038",
+        "adz-5933200047",
+        "adz-5927271524",
+        "adz-5941332416"
+      ]
+    },
+    {
+      "id": "conf-skills",
+      "category": "Skills",
+      "claim": "Machine Learning appears in 50% of analysed postings.",
+      "confidence": "Low",
+      "confidenceScore": 32,
+      "confidenceRationale": "Skill mentions counted from posting titles/descriptions after alias normalization.",
+      "evidencePostingCount": 2,
+      "evidencePercentage": 50.0,
+      "samplePostingIds": [
+        "adz-5932219038",
+        "adz-5933200047",
+        "adz-5927271524",
+        "adz-5941332416"
+      ]
+    },
+    {
+      "id": "conf-demand",
+      "category": "Demand",
+      "claim": "4 unique relevant postings were analysed after deduplication.",
+      "confidence": "Low",
+      "confidenceScore": 34,
+      "confidenceRationale": "Count is the unique posting ID set remaining after source-id and fingerprint deduplication.",
+      "evidencePostingCount": 4,
+      "evidencePercentage": 100.0,
+      "samplePostingIds": [
+        "adz-5932219038",
+        "adz-5933200047",
+        "adz-5927271524",
+        "adz-5941332416"
+      ]
+    }
+  ],
+  "clientRecommendations": {
+    "suggestedJobTitle": "Senior ML Research Engineer",
+    "recommendedSalaryBand": {
+      "min": 0,
+      "max": 0,
+      "target": 0,
+      "currency": "USD",
+      "rationale": "Target is the disclosed median; band is the IQR of normalized annual pay."
+    },
+    "leadSkills": [
+      "Machine Learning"
+    ],
+    "jobDescriptionHook": "Hire a Senior ML Research Engineer focused on Machine Learning.",
+    "strategicTakeaway": "Lead the requisition with the highest-frequency must-have skills and a median-aligned salary band."
+  },
+  "runNotes": {
+    "questionsAndAnswers": [],
+    "finalSearchPlan": {
+      "roleQuery": "Senior ML Research Engineer",
+      "titleSynonyms": [
+        "Senior ML Research Engineer",
+        "Software Developer",
+        "Backend Engineer",
+        "Full Stack Engineer"
+      ],
+      "locationScope": "San Francisco, CA",
+      "radiusKm": 60,
+      "dateRangeDays": 30,
+      "targetPostingsCount": 200,
+      "keywords": [
+        "Machine Learning"
+      ],
+      "negativeKeywords": [
+        "Internship",
+        "Data Entry",
+        "Unpaid"
+      ]
+    },
+    "postingsFetched": 6,
+    "postingsDeduplicated": 4,
+    "postingsAnalyzed": 4,
+    "dedupedDuplicatesCount": 2,
+    "executionTimeSeconds": 0,
+    "assumptionsMade": [
+      "adz-5927271524: excluded predicted salary",
+      "adz-5933200047: excluded predicted salary",
+      "adz-5941332416: excluded predicted salary",
+      "adz-5932219038: excluded predicted salary",
+      "No usable disclosed salaries after normalization.",
+      "Missing salaries are excluded, never imputed.",
+      "Currency conversion uses configured USD cross rates only.",
+      "Predicted Adzuna salaries are excluded."
+    ],
+    "dataSource": "Adzuna Jobs API"
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "id": "brief-cli-af2a8f3e67",
+  "requestId": "cli-af2a8f3e67",
+  "role": "Data Analyst",
+  "location": "Bangalore",
+  "generatedAt": "2026-11-15T17:55:57.526454+00:00",
+  "summary": "In Bangalore, Data Analyst roles have a median compensation of ₹850,000, with the middle 50% earning between ₹600,000 and ₹1,100,000.",
+  "hiringOutlook": {
+    "verdict": "Competitive",
+    "reason": "The market is competitive due to high demand for senior talent and a strong presence of direct hires, while pay transparency remains low.",
+    "metricSummary": "200 unique postings · median 850000 INR · disclosure 4.5%"
+  },
+  "demandVolume": {
+    "totalActivePostings": 200,
+    "sampleAnalyzed": 200,
+    "trend30Day": 0,
+    "averagePostingAgeDays": 12.2,
+    "volumeTimeline": []
+  },
+  "compensation": {
+    "currency": "INR",
+    "medianSalary": 850000,
+    "percentile25": 600000,
+    "percentile75": 1100000,
+    "salaryMin": 500000,
+    "salaryMax": 1250000,
+    "disclosedPayPercentage": 4.5,
+    "distributionBands": [
+      {
+        "band": "₹5.0L - ₹6.9L",
+        "count": 3,
+        "percentage": 33
+      },
+      {
+        "band": "₹6.9L - ₹8.8L",
+        "count": 2,
+        "percentage": 22
+      },
+      {
+        "band": "₹8.8L - ₹10.6L",
+        "count": 1,
+        "percentage": 11
+      },
+      {
+        "band": "₹10.6L - ₹12.5L",
+        "count": 3,
+        "percentage": 33
+      }
+    ],
+    "seniorityBreakdown": [
+      {
+        "level": "Junior",
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "count": 8,
+        "disclosedCount": 0,
+        "status": "insufficient_data"
+      },
+      {
+        "level": "Senior",
+        "median": 600000,
+        "min": 600000,
+        "max": 1100000,
+        "count": 45,
+        "disclosedCount": 3,
+        "status": "sufficient"
+      },
+      {
+        "level": "Staff/Lead",
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "count": 22,
+        "disclosedCount": 0,
+        "status": "insufficient_data"
+      },
+      {
+        "level": "Director",
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "count": 1,
+        "disclosedCount": 0,
+        "status": "insufficient_data"
+      },
+      {
+        "level": "Unknown",
+        "median": 875000,
+        "min": 500000,
+        "max": 1250000,
+        "count": 124,
+        "disclosedCount": 6,
+        "status": "sufficient"
+      }
+    ]
+  },
+  "skillsAndRequirements": {
+    "mustHaveSkills": [
+      {
+        "name": "SQL",
+        "frequency": 14,
+        "percentage": 7
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Spark",
+        "frequency": 9,
+        "percentage": 4
+      },
+      {
+        "name": "Azure",
+        "frequency": 5,
+        "percentage": 2
+      },
+      {
+        "name": "AWS",
+        "frequency": 4,
+        "percentage": 2
+      },
+      {
+        "name": "Power BI",
+        "frequency": 3,
+        "percentage": 2
+      },
+      {
+        "name": "GCP",
+        "frequency": 3,
+        "percentage": 2
+      },
+      {
+        "name": "Machine Learning",
+        "frequency": 3,
+        "percentage": 2
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 3,
+        "percentage": 2
+      }
+    ],
+    "typicalYearsExperience": 7.4,
+    "experienceDistribution": [
+      {
+        "bracket": "Unspecified",
+        "percentage": 62
+      },
+      {
+        "bracket": "6-8 years",
+        "percentage": 22
+      },
+      {
+        "bracket": "8+ years",
+        "percentage": 12
+      },
+      {
+        "bracket": "0-2 years",
+        "percentage": 4
+      }
+    ]
+  },
+  "employerCompetition": {
+    "topEmployers": [
+      {
+        "name": "Amazon",
+        "openPositions": 8,
+        "marketSharePercent": 4,
+        "type": "Direct"
+      },
+      {
+        "name": "Infosys Limited",
+        "openPositions": 5,
+        "marketSharePercent": 2,
+        "type": "Direct"
+      },
+      {
+        "name": "UnitedHealth Group",
+        "openPositions": 5,
+        "marketSharePercent": 2,
+        "type": "Direct"
+      },
+      {
+        "name": "Chevron",
+        "openPositions": 4,
+        "marketSharePercent": 2,
+        "type": "Direct"
+      },
+      {
+        "name": "Cisco",
+        "openPositions": 4,
+        "marketSharePercent": 2,
+        "type": "Direct"
+      },
+      {
+        "name": "Caterpillar",
+        "openPositions": 3,
+        "marketSharePercent": 2,
+        "type": "Direct"
+      },
+      {
+        "name": "Brillio",
+        "openPositions": 3,
+        "marketSharePercent": 2,
+        "type": "Direct"
+      },
+      {
+        "name": "ascendion",
+        "openPositions": 3,
+        "marketSharePercent": 2,
+        "type": "Staffing"
+      }
+    ],
+    "agencyVsDirect": {
+      "directPercent": 85,
+      "agencyPercent": 15
+    }
+  },
+  "observedTitles": [
+    {
+      "title": "Data Analyst",
+      "count": 11,
+      "sharePercent": 6
+    },
+    {
+      "title": "Data Engineer",
+      "count": 8,
+      "sharePercent": 4
+    },
+    {
+      "title": "Senior Data Analyst",
+      "count": 6,
+      "sharePercent": 3
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 4,
+      "sharePercent": 2
+    },
+    {
+      "title": "Data Analyst II",
+      "count": 2,
+      "sharePercent": 1
+    },
+    {
+      "title": "Principal Data Analyst",
+      "count": 2,
+      "sharePercent": 1
+    },
+    {
+      "title": "AI Ops- Data Analyst",
+      "count": 2,
+      "sharePercent": 1
+    },
+    {
+      "title": "Senior Data Quality Analyst",
+      "count": 2,
+      "sharePercent": 1
+    }
+  ],
+  "confidenceInsights": [
+    {
+      "id": "conf-comp",
+      "category": "Compensation",
+      "claim": "Median disclosed compensation is 850000 INR (IQR 600000–1100000).",
+      "confidence": "Low",
+      "confidenceScore": 20,
+      "confidenceRationale": "Computed from disclosed, normalized salaries only; missing and predicted values excluded.",
+      "evidencePostingCount": 9,
+      "evidencePercentage": 4.5,
+      "samplePostingIds": [
+        "adz-5931482054",
+        "adz-5930865737",
+        "adz-5955041425",
+        "adz-5961871004",
+        "adz-5963446306"
+      ]
+    },
+    {
+      "id": "conf-skills",
+      "category": "Skills",
+      "claim": "SQL appears in 7% of analysed postings.",
+      "confidence": "Low",
+      "confidenceScore": 20,
+      "confidenceRationale": "Skill mentions counted from posting titles/descriptions after alias normalization.",
+      "evidencePostingCount": 14,
+      "evidencePercentage": 7.0,
+      "samplePostingIds": [
+        "adz-5931482054",
+        "adz-5930865737",
+        "adz-5955041425",
+        "adz-5961871004"
+      ]
+    },
+    {
+      "id": "conf-demand",
+      "category": "Demand",
+      "claim": "200 unique relevant postings were analysed after deduplication.",
+      "confidence": "High",
+      "confidenceScore": 90,
+      "confidenceRationale": "Count is the unique posting ID set remaining after source-id and fingerprint deduplication.",
+      "evidencePostingCount": 200,
+      "evidencePercentage": 100.0,
+      "samplePostingIds": [
+        "adz-5931482054",
+        "adz-5930865737",
+        "adz-5955041425",
+        "adz-5961871004"
+      ]
+    }
+  ],
+  "clientRecommendations": {
+    "suggestedJobTitle": "Data Analyst",
+    "recommendedSalaryBand": {
+      "min": 600000,
+      "max": 1100000,
+      "target": 850000,
+      "currency": "INR",
+      "rationale": "Median salary reflects senior-level experience (average 7.4 years) and a bias toward direct hires; limited disclosed pay (4.5%) suggests many offers are negotiated privately."
+    },
+    "leadSkills": [
+      "SQL"
+    ],
+    "jobDescriptionHook": "Join leading tech and healthcare firms in Bangalore where data-driven decisions shape the future.",
+    "strategicTakeaway": "Focus recruitment on senior analysts with 7+ years experience to meet employer demand and command premium salaries."
+  },
+  "runNotes": {
+    "questionsAndAnswers": [],
+    "finalSearchPlan": {
+      "roleQuery": "Data Analyst",
+      "titleSynonyms": [
+        "Data Analyst",
+        "Mid-Level Data Analyst",
+        "Business Intelligence Analyst",
+        "Analytics Engineer",
+        "Product Analyst"
+      ],
+      "locationScope": "Bangalore",
+      "radiusKm": 35,
+      "dateRangeDays": 30,
+      "targetPostingsCount": 200,
+      "keywords": [
+        "SQL",
+        "Python",
+        "Analytics"
+      ],
+      "negativeKeywords": [
+        "Internship",
+        "Data Entry",
+        "Unpaid"
+      ]
+    },
+    "postingsFetched": 200,
+    "postingsDeduplicated": 200,
+    "postingsAnalyzed": 200,
+    "dedupedDuplicatesCount": 0,
+    "executionTimeSeconds": 70.95,
+    "assumptionsMade": [
+      "Missing salaries are excluded, never imputed.",
+      "Currency conversion uses configured USD cross rates only.",
+      "Predicted Adzuna salaries are excluded."
+    ],
+    "dataSource": "Adzuna Jobs API"
+  }
+}

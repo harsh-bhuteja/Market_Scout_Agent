@@ -1,0 +1,1 @@
+DETERMINISTIC FIXTURE RUN — 520 mocked postings to exercise LangGraph Send batching.

@@ -1,0 +1,1 @@
+DETERMINISTIC FIXTURE RUN — mocked Adzuna responses, no live API credentials used.

@@ -1,0 +1,220 @@
+{
+  "id": "brief-cli-cbe1264d4f",
+  "requestId": "cli-cbe1264d4f",
+  "role": "Backend Software Engineering (Distributed Systems)",
+  "location": "Texas",
+  "generatedAt": "2026-11-15T17:56:52.717101+00:00",
+  "summary": "In Texas, backend software engineering roles focused on distributed systems report a uniform median compensation of $110,000, with 66.7% of pay data disclosed from a very small sample of three postings.",
+  "hiringOutlook": {
+    "verdict": "Hard to fill",
+    "reason": "The market is flagged as hard to fill due to the limited number of openings, a narrow talent pool with specialized expertise in backend platforms and wealth custody, and the concentration of hiring at a single firm (State Street).",
+    "metricSummary": "3 unique postings · median 110000 USD · disclosure 66.7%"
+  },
+  "demandVolume": {
+    "totalActivePostings": 3,
+    "sampleAnalyzed": 3,
+    "trend30Day": 0,
+    "averagePostingAgeDays": 26.7,
+    "volumeTimeline": []
+  },
+  "compensation": {
+    "currency": "USD",
+    "medianSalary": 110000,
+    "percentile25": 110000,
+    "percentile75": 110000,
+    "salaryMin": 110000,
+    "salaryMax": 110000,
+    "disclosedPayPercentage": 66.7,
+    "distributionBands": [
+      {
+        "band": "$110,000 - $110,000",
+        "count": 2,
+        "percentage": 100
+      }
+    ],
+    "seniorityBreakdown": [
+      {
+        "level": "Senior (10+ years)",
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "count": 1,
+        "disclosedCount": 0,
+        "status": "insufficient_data"
+      },
+      {
+        "level": "Assistant Vice President (mid‑senior level)",
+        "median": 110000,
+        "min": 110000,
+        "max": 110000,
+        "count": 2,
+        "disclosedCount": 2,
+        "status": "low_sample"
+      }
+    ]
+  },
+  "skillsAndRequirements": {
+    "mustHaveSkills": [
+      {
+        "name": "Backend Platforms",
+        "frequency": 2,
+        "percentage": 67
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Wealth Custody & Clearing",
+        "frequency": 2,
+        "percentage": 67
+      }
+    ],
+    "typicalYearsExperience": 0,
+    "experienceDistribution": [
+      {
+        "bracket": "Unspecified",
+        "percentage": 100
+      }
+    ]
+  },
+  "employerCompetition": {
+    "topEmployers": [
+      {
+        "name": "State Street",
+        "openPositions": 2,
+        "marketSharePercent": 67,
+        "type": "Financial Services (State Street)"
+      },
+      {
+        "name": "Percient Inc.",
+        "openPositions": 1,
+        "marketSharePercent": 33,
+        "type": "Banking / Financial Services"
+      }
+    ],
+    "agencyVsDirect": {
+      "directPercent": 100,
+      "agencyPercent": 0
+    }
+  },
+  "observedTitles": [
+    {
+      "title": "Software Engineer – Backend Platforms, Assistant Vice President (Wealth Custody & Clearing)",
+      "count": 2,
+      "sharePercent": 67
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "count": 1,
+      "sharePercent": 33
+    }
+  ],
+  "confidenceInsights": [
+    {
+      "id": "conf-comp",
+      "category": "Compensation",
+      "claim": "Median disclosed compensation is 110000 USD (IQR 110000–110000).",
+      "confidence": "Low",
+      "confidenceScore": 32,
+      "confidenceRationale": "Computed from disclosed, normalized salaries only; missing and predicted values excluded.",
+      "evidencePostingCount": 2,
+      "evidencePercentage": 66.7,
+      "samplePostingIds": [
+        "adz-5936346616",
+        "adz-5936321527",
+        "adz-5930998929"
+      ]
+    },
+    {
+      "id": "conf-skills",
+      "category": "Skills",
+      "claim": "Backend Platforms appears in 67% of analysed postings.",
+      "confidence": "Low",
+      "confidenceScore": 32,
+      "confidenceRationale": "Skill mentions counted from posting titles/descriptions after alias normalization.",
+      "evidencePostingCount": 2,
+      "evidencePercentage": 67.0,
+      "samplePostingIds": [
+        "adz-5936346616",
+        "adz-5936321527",
+        "adz-5930998929"
+      ]
+    },
+    {
+      "id": "conf-demand",
+      "category": "Demand",
+      "claim": "3 unique relevant postings were analysed after deduplication.",
+      "confidence": "Low",
+      "confidenceScore": 33,
+      "confidenceRationale": "Count is the unique posting ID set remaining after source-id and fingerprint deduplication.",
+      "evidencePostingCount": 3,
+      "evidencePercentage": 100.0,
+      "samplePostingIds": [
+        "adz-5936346616",
+        "adz-5936321527",
+        "adz-5930998929"
+      ]
+    }
+  ],
+  "clientRecommendations": {
+    "suggestedJobTitle": "Backend Software Engineer – Distributed Systems",
+    "recommendedSalaryBand": {
+      "min": 110000,
+      "max": 110000,
+      "target": 110000,
+      "currency": "USD",
+      "rationale": "The $110,000 median reflects the specialized skill set required for distributed systems and wealth‑custody platforms, adjusted for the Texas cost of living and the limited supply of candidates with this expertise."
+    },
+    "leadSkills": [
+      "Backend Platforms"
+    ],
+    "jobDescriptionHook": "Join the elite team building the next generation of distributed financial platforms in Texas.",
+    "strategicTakeaway": "Companies should broaden sourcing channels and consider upskilling internal talent to address the scarcity of qualified candidates for high‑impact backend roles."
+  },
+  "runNotes": {
+    "questionsAndAnswers": [
+      {
+        "question": "Which specific role or engineering/professional track should this scout prioritize?",
+        "answer": "Backend Software Engineering (Distributed Systems)"
+      },
+      {
+        "question": "Confirm the target geography and work mode:",
+        "answer": "Specific metro (Hybrid / On-site within 35 miles)"
+      }
+    ],
+    "finalSearchPlan": {
+      "roleQuery": "Backend Software Engineering (Distributed Systems)",
+      "titleSynonyms": [
+        "Backend Software Engineering (Distributed Systems)",
+        "Software Developer",
+        "Backend Engineer",
+        "Full Stack Engineer"
+      ],
+      "locationScope": "Texas",
+      "radiusKm": 60,
+      "dateRangeDays": 30,
+      "targetPostingsCount": 200,
+      "keywords": [
+        "Python",
+        "SQL",
+        "Cloud"
+      ],
+      "negativeKeywords": [
+        "Internship",
+        "Data Entry",
+        "Unpaid"
+      ]
+    },
+    "postingsFetched": 9,
+    "postingsDeduplicated": 3,
+    "postingsAnalyzed": 3,
+    "dedupedDuplicatesCount": 6,
+    "executionTimeSeconds": 11.22,
+    "assumptionsMade": [
+      "adz-5930998929: excluded predicted salary",
+      "Missing salaries are excluded, never imputed.",
+      "Currency conversion uses configured USD cross rates only.",
+      "Predicted Adzuna salaries are excluded."
+    ],
+    "dataSource": "Adzuna Jobs API"
+  }
+}

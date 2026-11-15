@@ -1,0 +1,205 @@
+{
+  "id": "brief-cli-f9f759785a",
+  "requestId": "cli-f9f759785a",
+  "role": "Backend Software Engineering (Distributed Systems)",
+  "location": "Texas",
+  "generatedAt": "2026-11-09T15:30:24.563395+00:00",
+  "summary": "The Texas market for Backend Software Engineering (Distributed Systems) shows 3 unique postings in the analysed sample. Disclosed pay median is 0 USD with an IQR of 0–0. Hiring outlook is hard to fill based on volume and evidence quality.",
+  "hiringOutlook": {
+    "verdict": "Hard to fill",
+    "reason": "Based on 3 unique postings and 0.0% salary disclosure.",
+    "metricSummary": "3 unique postings · median 0 USD · disclosure 0.0%"
+  },
+  "demandVolume": {
+    "totalActivePostings": 3,
+    "sampleAnalyzed": 3,
+    "trend30Day": 0,
+    "averagePostingAgeDays": 20.7,
+    "volumeTimeline": []
+  },
+  "compensation": {
+    "currency": "USD",
+    "medianSalary": 0,
+    "percentile25": 0,
+    "percentile75": 0,
+    "salaryMin": 0,
+    "salaryMax": 0,
+    "disclosedPayPercentage": 0.0,
+    "distributionBands": [],
+    "seniorityBreakdown": [
+      {
+        "level": "Unknown",
+        "median": 0,
+        "min": 0,
+        "max": 0
+      }
+    ]
+  },
+  "skillsAndRequirements": {
+    "mustHaveSkills": [
+      {
+        "name": "AWS",
+        "frequency": 1,
+        "percentage": 33
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Java",
+        "frequency": 1,
+        "percentage": 33
+      }
+    ],
+    "typicalYearsExperience": 0,
+    "experienceDistribution": [
+      {
+        "bracket": "Unspecified",
+        "percentage": 100
+      }
+    ]
+  },
+  "employerCompetition": {
+    "topEmployers": [
+      {
+        "name": "State Street",
+        "openPositions": 2,
+        "marketSharePercent": 67,
+        "type": "Direct"
+      },
+      {
+        "name": "Percient Inc.",
+        "openPositions": 1,
+        "marketSharePercent": 33,
+        "type": "Direct"
+      }
+    ],
+    "agencyVsDirect": {
+      "directPercent": 100,
+      "agencyPercent": 0
+    }
+  },
+  "observedTitles": [
+    {
+      "title": "Software Engineer – Backend Platforms, Assistant Vice President (Wealth Custody & Clearing)",
+      "count": 2,
+      "sharePercent": 67
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "count": 1,
+      "sharePercent": 33
+    }
+  ],
+  "confidenceInsights": [
+    {
+      "id": "conf-comp",
+      "category": "Compensation",
+      "claim": "Median disclosed compensation is 0 USD (IQR 0–0).",
+      "confidence": "Low",
+      "confidenceScore": 30,
+      "confidenceRationale": "Computed from disclosed, normalized salaries only; missing and predicted values excluded.",
+      "evidencePostingCount": 0,
+      "evidencePercentage": 0.0,
+      "samplePostingIds": [
+        "adz-5930998929",
+        "adz-5936346616",
+        "adz-5936321527"
+      ]
+    },
+    {
+      "id": "conf-skills",
+      "category": "Skills",
+      "claim": "AWS appears in 33% of analysed postings.",
+      "confidence": "Low",
+      "confidenceScore": 31,
+      "confidenceRationale": "Skill mentions counted from posting titles/descriptions after alias normalization.",
+      "evidencePostingCount": 1,
+      "evidencePercentage": 33.0,
+      "samplePostingIds": [
+        "adz-5930998929",
+        "adz-5936346616",
+        "adz-5936321527"
+      ]
+    },
+    {
+      "id": "conf-demand",
+      "category": "Demand",
+      "claim": "3 unique relevant postings were analysed after deduplication.",
+      "confidence": "Low",
+      "confidenceScore": 33,
+      "confidenceRationale": "Count is the unique posting ID set remaining after source-id and fingerprint deduplication.",
+      "evidencePostingCount": 3,
+      "evidencePercentage": 100.0,
+      "samplePostingIds": [
+        "adz-5930998929",
+        "adz-5936346616",
+        "adz-5936321527"
+      ]
+    }
+  ],
+  "clientRecommendations": {
+    "suggestedJobTitle": "Backend Software Engineering (Distributed Systems)",
+    "recommendedSalaryBand": {
+      "min": 0,
+      "max": 0,
+      "target": 0,
+      "currency": "USD",
+      "rationale": "Target is the disclosed median; band is the IQR of normalized annual pay."
+    },
+    "leadSkills": [
+      "AWS"
+    ],
+    "jobDescriptionHook": "Hire a Backend Software Engineering (Distributed Systems) focused on AWS.",
+    "strategicTakeaway": "Lead the requisition with the highest-frequency must-have skills and a median-aligned salary band."
+  },
+  "runNotes": {
+    "questionsAndAnswers": [
+      {
+        "question": "Which specific role or engineering/professional track should this scout prioritize?",
+        "answer": "Backend Software Engineering (Distributed Systems)"
+      },
+      {
+        "question": "Confirm the target geography and work mode:",
+        "answer": "Specific metro (Hybrid / On-site within 35 miles)"
+      }
+    ],
+    "finalSearchPlan": {
+      "roleQuery": "Backend Software Engineering (Distributed Systems)",
+      "titleSynonyms": [
+        "Backend Software Engineering (Distributed Systems)",
+        "Software Developer",
+        "Backend Engineer",
+        "Full Stack Engineer"
+      ],
+      "locationScope": "Texas",
+      "radiusKm": 60,
+      "dateRangeDays": 30,
+      "targetPostingsCount": 200,
+      "keywords": [
+        "Python",
+        "SQL",
+        "Cloud"
+      ],
+      "negativeKeywords": [
+        "Internship",
+        "Data Entry",
+        "Unpaid"
+      ]
+    },
+    "postingsFetched": 9,
+    "postingsDeduplicated": 3,
+    "postingsAnalyzed": 3,
+    "dedupedDuplicatesCount": 6,
+    "executionTimeSeconds": 0,
+    "assumptionsMade": [
+      "adz-5930998929: excluded predicted salary",
+      "adz-5936321527: excluded predicted salary",
+      "adz-5936346616: excluded predicted salary",
+      "No usable disclosed salaries after normalization.",
+      "Missing salaries are excluded, never imputed.",
+      "Currency conversion uses configured USD cross rates only.",
+      "Predicted Adzuna salaries are excluded."
+    ],
+    "dataSource": "Adzuna Jobs API"
+  }
+}

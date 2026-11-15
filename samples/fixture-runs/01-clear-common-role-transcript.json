@@ -1,0 +1,9 @@
+[
+  {
+    "event": "start",
+    "interrupt": "search_plan_approval"
+  },
+  {
+    "event": "approved_plan"
+  }
+]

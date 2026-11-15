@@ -1,0 +1,112 @@
+{
+  "threadId": "cli-f9f759785a",
+  "status": "completed",
+  "role": "Engineer",
+  "location": "Texas",
+  "currentStageId": 6,
+  "logs": [
+    {
+      "timestamp": "21:00:20",
+      "stageId": 1,
+      "text": "Intake initialized for role: \"Engineer\" in \"Texas\".",
+      "level": "agent"
+    },
+    {
+      "timestamp": "21:00:20",
+      "stageId": 1,
+      "text": "Evaluating query ambiguity against role/location heuristics...",
+      "level": "agent"
+    },
+    {
+      "timestamp": "21:00:20",
+      "stageId": 1,
+      "text": "Ambiguity detected. Pausing for targeted clarification.",
+      "level": "hitl"
+    },
+    {
+      "timestamp": "21:00:20",
+      "stageId": 1,
+      "text": "Clarification received. Resuming thread cli-f9f759785a.",
+      "level": "agent"
+    },
+    {
+      "timestamp": "21:00:20",
+      "stageId": 2,
+      "text": "Formulating title synonyms for \"Backend Software Engineering (Distributed Systems)\"...",
+      "level": "agent"
+    },
+    {
+      "timestamp": "21:00:20",
+      "stageId": 2,
+      "text": "Drafting search plan: keywords, exclusions, geographic radius.",
+      "level": "tool"
+    },
+    {
+      "timestamp": "21:00:20",
+      "stageId": 2,
+      "text": "Search plan confirmed: 4 title variations, 35km radius.",
+      "level": "success"
+    },
+    {
+      "timestamp": "21:00:20",
+      "stageId": 3,
+      "text": "Tool invocation: adzuna_job_search(country=\"us\", pages=4, radius=35km)",
+      "level": "tool"
+    },
+    {
+      "timestamp": "21:00:22",
+      "stageId": 3,
+      "text": "Fetched 3 raw postings this wave. Unique total=3; duplicates removed=0.",
+      "level": "tool"
+    },
+    {
+      "timestamp": "21:00:22",
+      "stageId": 3,
+      "text": "Low volume (3 < 20). Auto-refining search (attempt 1/2).",
+      "level": "agent"
+    },
+    {
+      "timestamp": "21:00:22",
+      "stageId": 3,
+      "text": "Tool invocation: adzuna_job_search(country=\"us\", pages=4, radius=60km)",
+      "level": "tool"
+    },
+    {
+      "timestamp": "21:00:24",
+      "stageId": 3,
+      "text": "Fetched 6 raw postings this wave. Unique total=3; duplicates removed=6.",
+      "level": "tool"
+    },
+    {
+      "timestamp": "21:00:24",
+      "stageId": 3,
+      "text": "Operator chose to proceed with sparse evidence.",
+      "level": "hitl"
+    },
+    {
+      "timestamp": "21:00:24",
+      "stageId": 4,
+      "text": "Analysed batch of 3 postings.",
+      "level": "agent"
+    },
+    {
+      "timestamp": "21:00:24",
+      "stageId": 5,
+      "text": "Computing median and IQR from disclosed salaries only.",
+      "level": "agent"
+    },
+    {
+      "timestamp": "21:00:24",
+      "stageId": 5,
+      "text": "Aggregating skills, employers, and title variants from posting IDs.",
+      "level": "success"
+    },
+    {
+      "timestamp": "21:00:24",
+      "stageId": 6,
+      "text": "Structured market brief validated against Pydantic schema.",
+      "level": "success"
+    }
+  ],
+  "completedAt": "2026-11-09T15:30:24.576405+00:00"
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "event": "intake_initialized",
+    "timestamp": "2026-11-09T15:30:20.928483+00:00",
+    "request": {
+      "id": "cli-f9f759785a",
+      "role": "Engineer",
+      "location": "Texas",
+      "seniority": "Any",
+      "employmentType": "Any",
+      "workplaceType": "Any",
+      "currency": "USD",
+      "clientPurpose": "",
+      "focusAreas": [
+        "skills"
+      ],
+      "createdAt": "2026-11-09T15:30:20.928483+00:00"
+    }
+  },
+  {
+    "event": "clarification_answered",
+    "timestamp": "2026-11-09T15:30:20.979487+00:00",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Which specific role or engineering/professional track should this scout prioritize?",
+        "context": "A generic title covers multiple markets with different salary bands and skills.",
+        "suggestedAnswers": [
+          "Backend Software Engineering (Distributed Systems)",
+          "Machine Learning / AI Engineering",
+          "Data Analyst / Analytics",
+          "DevOps & Cloud Infrastructure",
+          "Full Stack Web Engineering"
+        ]
+      },
+      {
+        "id": "q2",
+        "question": "Confirm the target geography and work mode:",
+        "context": "Broad regions span multiple talent markets and commuting patterns.",
+        "suggestedAnswers": [
+          "Specific metro (Hybrid / On-site within 35 miles)",
+          "State-wide or country-wide remote",
+          "Nationwide remote"
+        ]
+      }
+    ],
+    "answers": {
+      "q1": "Backend Software Engineering (Distributed Systems)",
+      "q2": "Specific metro (Hybrid / On-site within 35 miles)"
+    }
+  },
+  {
+    "event": "search_plan_approved",
+    "timestamp": "2026-11-09T15:30:20.991623+00:00",
+    "initialPlan": {
+      "roleQuery": "Backend Software Engineering (Distributed Systems)",
+      "titleSynonyms": [
+        "Backend Software Engineering (Distributed Systems)",
+        "Software Developer",
+        "Backend Engineer",
+        "Full Stack Engineer"
+      ],
+      "locationScope": "Texas",
+      "radiusKm": 35,
+      "dateRangeDays": 30,
+      "targetPostingsCount": 200,
+      "keywords": [
+        "Python",
+        "SQL",
+        "Cloud"
+      ],
+      "negativeKeywords": [
+        "Internship",
+        "Data Entry",
+        "Unpaid"
+      ]
+    },
+    "approvedPlan": {
+      "roleQuery": "Backend Software Engineering (Distributed Systems)",
+      "titleSynonyms": [
+        "Backend Software Engineering (Distributed Systems)",
+        "Software Developer",
+        "Backend Engineer",
+        "Full Stack Engineer"
+      ],
+      "locationScope": "Texas",
+      "radiusKm": 35,
+      "dateRangeDays": 30,
+      "targetPostingsCount": 200,
+      "keywords": [
+        "Python",
+        "SQL",
+        "Cloud"
+      ],
+      "negativeKeywords": [
+        "Internship",
+        "Data Entry",
+        "Unpaid"
+      ]
+    }
+  },
+  {
+    "event": "low_data_decision",
+    "timestamp": "2026-11-09T15:30:24.544462+00:00",
+    "decision": {
+      "action": "proceed_with_sparse"
+    }
+  },
+  {
+    "event": "completed",
+    "timestamp": "2026-11-09T15:30:24.576405+00:00",
+    "summary": "The Texas market for Backend Software Engineering (Distributed Systems) shows 3 unique postings in the analysed sample. Disclosed pay median is 0 USD with an IQR of 0–0. Hiring outlook is hard to fill based on volume and evidence quality.",
+    "hiringOutlook": {
+      "verdict": "Hard to fill",
+      "reason": "Based on 3 unique postings and 0.0% salary disclosure.",
+      "metricSummary": "3 unique postings · median 0 USD · disclosure 0.0%"
+    }
+  }
+]

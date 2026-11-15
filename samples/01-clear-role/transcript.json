@@ -1,0 +1,80 @@
+[
+  {
+    "event": "intake_initialized",
+    "timestamp": "2026-11-09T15:29:19.743357+00:00",
+    "request": {
+      "id": "cli-6dfd85cab4",
+      "role": "Data Analyst",
+      "location": "Bangalore, India",
+      "seniority": "Any",
+      "employmentType": "Any",
+      "workplaceType": "Any",
+      "currency": "INR",
+      "clientPurpose": "",
+      "focusAreas": [
+        "salary"
+      ],
+      "createdAt": "2026-11-09T15:29:19.743357+00:00"
+    }
+  },
+  {
+    "event": "search_plan_approved",
+    "timestamp": "2026-11-09T15:29:19.805832+00:00",
+    "initialPlan": {
+      "roleQuery": "Data Analyst",
+      "titleSynonyms": [
+        "Data Analyst",
+        "Business Intelligence Analyst",
+        "Analytics Engineer",
+        "Product Analyst"
+      ],
+      "locationScope": "Bangalore, India",
+      "radiusKm": 35,
+      "dateRangeDays": 30,
+      "targetPostingsCount": 200,
+      "keywords": [
+        "SQL",
+        "Python",
+        "Analytics"
+      ],
+      "negativeKeywords": [
+        "Internship",
+        "Data Entry",
+        "Unpaid"
+      ]
+    },
+    "approvedPlan": {
+      "roleQuery": "Data Analyst",
+      "titleSynonyms": [
+        "Data Analyst",
+        "Business Intelligence Analyst",
+        "Analytics Engineer",
+        "Product Analyst"
+      ],
+      "locationScope": "Bangalore, India",
+      "radiusKm": 35,
+      "dateRangeDays": 30,
+      "targetPostingsCount": 200,
+      "keywords": [
+        "SQL",
+        "Python",
+        "Analytics"
+      ],
+      "negativeKeywords": [
+        "Internship",
+        "Data Entry",
+        "Unpaid"
+      ]
+    }
+  },
+  {
+    "event": "completed",
+    "timestamp": "2026-11-09T15:29:23.542185+00:00",
+    "summary": "The Bangalore, India market for Data Analyst shows 200 unique postings in the analysed sample. Disclosed pay median is 0 INR with an IQR of 0–0. Hiring outlook is competitive based on volume and evidence quality.",
+    "hiringOutlook": {
+      "verdict": "Competitive",
+      "reason": "Based on 200 unique postings and 0.0% salary disclosure.",
+      "metricSummary": "200 unique postings · median 0 INR · disclosure 0.0%"
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "event": "intake_initialized",
+    "timestamp": "2026-11-15T17:54:46.572036+00:00",
+    "request": {
+      "id": "cli-af2a8f3e67",
+      "role": "Data Analyst",
+      "location": "Bangalore",
+      "seniority": "Mid-Level",
+      "employmentType": "Any",
+      "workplaceType": "Hybrid",
+      "currency": "INR",
+      "clientPurpose": "",
+      "focusAreas": [
+        "salary"
+      ],
+      "createdAt": "2026-11-15T17:54:46.572036+00:00"
+    }
+  },
+  {
+    "event": "search_plan_approved",
+    "timestamp": "2026-11-15T17:54:46.636906+00:00",
+    "initialPlan": {
+      "roleQuery": "Data Analyst",
+      "titleSynonyms": [
+        "Data Analyst",
+        "Mid-Level Data Analyst",
+        "Business Intelligence Analyst",
+        "Analytics Engineer",
+        "Product Analyst"
+      ],
+      "locationScope": "Bangalore",
+      "radiusKm": 35,
+      "dateRangeDays": 30,
+      "targetPostingsCount": 200,
+      "keywords": [
+        "SQL",
+        "Python",
+        "Analytics"
+      ],
+      "negativeKeywords": [
+        "Internship",
+        "Data Entry",
+        "Unpaid"
+      ]
+    },
+    "approvedPlan": {
+      "roleQuery": "Data Analyst",
+      "titleSynonyms": [
+        "Data Analyst",
+        "Mid-Level Data Analyst",
+        "Business Intelligence Analyst",
+        "Analytics Engineer",
+        "Product Analyst"
+      ],
+      "locationScope": "Bangalore",
+      "radiusKm": 35,
+      "dateRangeDays": 30,
+      "targetPostingsCount": 200,
+      "keywords": [
+        "SQL",
+        "Python",
+        "Analytics"
+      ],
+      "negativeKeywords": [
+        "Internship",
+        "Data Entry",
+        "Unpaid"
+      ]
+    }
+  },
+  {
+    "event": "completed",
+    "timestamp": "2026-11-15T17:56:24.604173+00:00",
+    "summary": "In Bangalore, Data Analyst roles have a median compensation of ₹850,000, with the middle 50% earning between ₹600,000 and ₹1,100,000.",
+    "hiringOutlook": {
+      "verdict": "Competitive",
+      "reason": "The market is competitive due to high demand for senior talent and a strong presence of direct hires, while pay transparency remains low.",
+      "metricSummary": "200 unique postings · median 850000 INR · disclosure 4.5%"
+    }
+  }
+]

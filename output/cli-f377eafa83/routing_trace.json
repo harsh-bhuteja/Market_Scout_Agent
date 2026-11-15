@@ -1,0 +1,112 @@
+{
+  "threadId": "cli-f377eafa83",
+  "status": "completed",
+  "role": "Data Analyst",
+  "location": "Bangalore, India",
+  "currentStageId": 6,
+  "logs": [
+    {
+      "timestamp": "23:22:02",
+      "stageId": 1,
+      "text": "Intake initialized for role: \"Data Analyst\" in \"Bangalore, India\".",
+      "level": "agent"
+    },
+    {
+      "timestamp": "23:22:02",
+      "stageId": 1,
+      "text": "Evaluating query ambiguity against role/location heuristics...",
+      "level": "agent"
+    },
+    {
+      "timestamp": "23:22:02",
+      "stageId": 1,
+      "text": "Role and location are sufficiently specific.",
+      "level": "success"
+    },
+    {
+      "timestamp": "23:22:02",
+      "stageId": 2,
+      "text": "Formulating title synonyms for \"Data Analyst\"...",
+      "level": "agent"
+    },
+    {
+      "timestamp": "23:22:02",
+      "stageId": 2,
+      "text": "Drafting search plan: keywords, exclusions, geographic radius.",
+      "level": "tool"
+    },
+    {
+      "timestamp": "23:22:27",
+      "stageId": 2,
+      "text": "Search plan confirmed: 4 title variations, 30km radius.",
+      "level": "success"
+    },
+    {
+      "timestamp": "23:22:27",
+      "stageId": 3,
+      "text": "Tool invocation: adzuna_job_search(country=\"in\", pages=4, radius=30km)",
+      "level": "tool"
+    },
+    {
+      "timestamp": "23:22:33",
+      "stageId": 3,
+      "text": "Fetched 200 raw postings this wave. Unique total=200; duplicates removed=0.",
+      "level": "tool"
+    },
+    {
+      "timestamp": "23:22:33",
+      "stageId": 3,
+      "text": "Sufficiency threshold passed: 200 unique postings.",
+      "level": "success"
+    },
+    {
+      "timestamp": "23:22:33",
+      "stageId": 4,
+      "text": "Analysed batch of 40 postings.",
+      "level": "agent"
+    },
+    {
+      "timestamp": "23:22:33",
+      "stageId": 4,
+      "text": "Analysed batch of 40 postings.",
+      "level": "agent"
+    },
+    {
+      "timestamp": "23:22:33",
+      "stageId": 4,
+      "text": "Analysed batch of 40 postings.",
+      "level": "agent"
+    },
+    {
+      "timestamp": "23:22:33",
+      "stageId": 4,
+      "text": "Analysed batch of 40 postings.",
+      "level": "agent"
+    },
+    {
+      "timestamp": "23:22:33",
+      "stageId": 4,
+      "text": "Analysed batch of 40 postings.",
+      "level": "agent"
+    },
+    {
+      "timestamp": "23:22:33",
+      "stageId": 5,
+      "text": "Computing median and IQR from disclosed salaries only.",
+      "level": "agent"
+    },
+    {
+      "timestamp": "23:22:33",
+      "stageId": 5,
+      "text": "Aggregating skills, employers, and title variants from posting IDs.",
+      "level": "success"
+    },
+    {
+      "timestamp": "23:22:33",
+      "stageId": 6,
+      "text": "Structured market brief validated against Pydantic schema.",
+      "level": "success"
+    }
+  ],
+  "completedAt": "2026-11-10T17:52:33.920680+00:00"
+}

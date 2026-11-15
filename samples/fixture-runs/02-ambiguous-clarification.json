@@ -1,0 +1,258 @@
+{
+  "id": "brief-sample-amb",
+  "requestId": "sample-amb",
+  "role": "Backend Software Engineering (Distributed Systems)",
+  "location": "Austin Metro (Hybrid)",
+  "generatedAt": "2026-11-15T17:57:28.006369+00:00",
+  "summary": "The Austin Metro (Hybrid) market for Backend Software Engineering (Distributed Systems) shows 30 unique postings in the analysed sample. Disclosed pay median is 14030 USD with an IQR of 13937\u201314123. Hiring outlook is favourable based on volume and evidence quality.",
+  "hiringOutlook": {
+    "verdict": "Favourable",
+    "reason": "Based on 30 unique postings and 100.0% salary disclosure.",
+    "metricSummary": "30 unique postings \u00b7 median 14030 USD \u00b7 disclosure 100.0%"
+  },
+  "demandVolume": {
+    "totalActivePostings": 30,
+    "sampleAnalyzed": 30,
+    "trend30Day": 0,
+    "averagePostingAgeDays": 45.0,
+    "volumeTimeline": []
+  },
+  "compensation": {
+    "currency": "USD",
+    "medianSalary": 14030,
+    "percentile25": 13937,
+    "percentile75": 14123,
+    "salaryMin": 13855,
+    "salaryMax": 14205,
+    "disclosedPayPercentage": 100.0,
+    "distributionBands": [
+      {
+        "band": "$13,855 - $13,943",
+        "count": 8,
+        "percentage": 27
+      },
+      {
+        "band": "$13,943 - $14,030",
+        "count": 7,
+        "percentage": 23
+      },
+      {
+        "band": "$14,030 - $14,117",
+        "count": 7,
+        "percentage": 23
+      },
+      {
+        "band": "$14,117 - $14,205",
+        "count": 8,
+        "percentage": 27
+      }
+    ],
+    "seniorityBreakdown": [
+      {
+        "level": "Unknown",
+        "median": 14030,
+        "min": 13855,
+        "max": 14205,
+        "count": 30,
+        "disclosedCount": 30,
+        "status": "sufficient"
+      }
+    ]
+  },
+  "skillsAndRequirements": {
+    "mustHaveSkills": [
+      {
+        "name": "Python",
+        "frequency": 30,
+        "percentage": 100
+      },
+      {
+        "name": "SQL",
+        "frequency": 30,
+        "percentage": 100
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Power BI",
+        "frequency": 30,
+        "percentage": 100
+      },
+      {
+        "name": "Tableau",
+        "frequency": 30,
+        "percentage": 100
+      },
+      {
+        "name": "dbt",
+        "frequency": 30,
+        "percentage": 100
+      }
+    ],
+    "typicalYearsExperience": 0,
+    "experienceDistribution": [
+      {
+        "bracket": "Unspecified",
+        "percentage": 100
+      }
+    ]
+  },
+  "employerCompetition": {
+    "topEmployers": [
+      {
+        "name": "Acme 0",
+        "openPositions": 6,
+        "marketSharePercent": 20,
+        "type": "Direct"
+      },
+      {
+        "name": "Acme 1",
+        "openPositions": 6,
+        "marketSharePercent": 20,
+        "type": "Direct"
+      },
+      {
+        "name": "Acme 2",
+        "openPositions": 6,
+        "marketSharePercent": 20,
+        "type": "Direct"
+      },
+      {
+        "name": "Acme 3",
+        "openPositions": 6,
+        "marketSharePercent": 20,
+        "type": "Direct"
+      },
+      {
+        "name": "Acme 4",
+        "openPositions": 6,
+        "marketSharePercent": 20,
+        "type": "Direct"
+      }
+    ],
+    "agencyVsDirect": {
+      "directPercent": 100,
+      "agencyPercent": 0
+    }
+  },
+  "observedTitles": [
+    {
+      "title": "Data Analyst",
+      "count": 30,
+      "sharePercent": 100
+    }
+  ],
+  "confidenceInsights": [
+    {
+      "id": "conf-comp",
+      "category": "Compensation",
+      "claim": "Median disclosed compensation is 14030 USD (IQR 13937\u201314123).",
+      "confidence": "Medium",
+      "confidenceScore": 82,
+      "confidenceRationale": "Computed from disclosed, normalized salaries only; missing and predicted values excluded.",
+      "evidencePostingCount": 30,
+      "evidencePercentage": 100.0,
+      "samplePostingIds": [
+        "adz-1018",
+        "adz-1003",
+        "adz-1009",
+        "adz-1012",
+        "adz-1022"
+      ]
+    },
+    {
+      "id": "conf-skills",
+      "category": "Skills",
+      "claim": "Python appears in 100% of analysed postings.",
+      "confidence": "Medium",
+      "confidenceScore": 82,
+      "confidenceRationale": "Skill mentions counted from posting titles/descriptions after alias normalization.",
+      "evidencePostingCount": 30,
+      "evidencePercentage": 100.0,
+      "samplePostingIds": [
+        "adz-1018",
+        "adz-1003",
+        "adz-1009",
+        "adz-1012"
+      ]
+    },
+    {
+      "id": "conf-demand",
+      "category": "Demand",
+      "claim": "30 unique relevant postings were analysed after deduplication.",
+      "confidence": "Medium",
+      "confidenceScore": 82,
+      "confidenceRationale": "Count is the unique posting ID set remaining after source-id and fingerprint deduplication.",
+      "evidencePostingCount": 30,
+      "evidencePercentage": 100.0,
+      "samplePostingIds": [
+        "adz-1018",
+        "adz-1003",
+        "adz-1009",
+        "adz-1012"
+      ]
+    }
+  ],
+  "clientRecommendations": {
+    "suggestedJobTitle": "Backend Software Engineering (Distributed Systems)",
+    "recommendedSalaryBand": {
+      "min": 13937,
+      "max": 14123,
+      "target": 14030,
+      "currency": "USD",
+      "rationale": "Target is the disclosed median; band is the IQR of normalized annual pay."
+    },
+    "leadSkills": [
+      "Python",
+      "SQL"
+    ],
+    "jobDescriptionHook": "Hire a Backend Software Engineering (Distributed Systems) focused on Python, SQL.",
+    "strategicTakeaway": "Lead the requisition with the highest-frequency must-have skills and a median-aligned salary band."
+  },
+  "runNotes": {
+    "questionsAndAnswers": [
+      {
+        "question": "Which specific role or engineering/professional track should this scout prioritize?",
+        "answer": "Backend Software Engineering (Distributed Systems)"
+      },
+      {
+        "question": "Confirm the target geography and work mode:",
+        "answer": "Austin Metro (Hybrid)"
+      }
+    ],
+    "finalSearchPlan": {
+      "roleQuery": "Backend Software Engineering (Distributed Systems)",
+      "titleSynonyms": [
+        "Backend Software Engineering (Distributed Systems)",
+        "Software Developer",
+        "Backend Engineer",
+        "Full Stack Engineer"
+      ],
+      "locationScope": "Austin Metro (Hybrid)",
+      "radiusKm": 35,
+      "dateRangeDays": 30,
+      "targetPostingsCount": 200,
+      "keywords": [
+        "Python",
+        "SQL",
+        "Cloud"
+      ],
+      "negativeKeywords": [
+        "Internship",
+        "Data Entry",
+        "Unpaid"
+      ]
+    },
+    "postingsFetched": 30,
+    "postingsDeduplicated": 30,
+    "postingsAnalyzed": 30,
+    "dedupedDuplicatesCount": 0,
+    "executionTimeSeconds": 0.1,
+    "assumptionsMade": [
+      "Missing salaries are excluded, never imputed.",
+      "Currency conversion uses configured USD cross rates only.",
+      "Predicted Adzuna salaries are excluded."
+    ],
+    "dataSource": "Adzuna Jobs API"
+  }
+}

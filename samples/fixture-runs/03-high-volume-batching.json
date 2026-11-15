@@ -1,0 +1,284 @@
+{
+  "id": "brief-sample-stress",
+  "requestId": "sample-stress",
+  "role": "Data Analyst",
+  "location": "Bangalore",
+  "generatedAt": "2026-11-15T17:57:28.223028+00:00",
+  "summary": "The Bangalore market for Data Analyst shows 520 unique postings in the analysed sample. Disclosed pay median is 1409500 INR with an IQR of 1279250\u20131539750. Hiring outlook is competitive based on volume and evidence quality.",
+  "hiringOutlook": {
+    "verdict": "Competitive",
+    "reason": "Based on 520 unique postings and 100.0% salary disclosure.",
+    "metricSummary": "520 unique postings \u00b7 median 1409500 INR \u00b7 disclosure 100.0%"
+  },
+  "demandVolume": {
+    "totalActivePostings": 520,
+    "sampleAnalyzed": 520,
+    "trend30Day": 0,
+    "averagePostingAgeDays": 45.0,
+    "volumeTimeline": []
+  },
+  "compensation": {
+    "currency": "INR",
+    "medianSalary": 1409500,
+    "percentile25": 1279250,
+    "percentile75": 1539750,
+    "salaryMin": 1150000,
+    "salaryMax": 1669000,
+    "disclosedPayPercentage": 100.0,
+    "distributionBands": [
+      {
+        "band": "\u20b911.5L - \u20b912.8L",
+        "count": 130,
+        "percentage": 25
+      },
+      {
+        "band": "\u20b912.8L - \u20b914.1L",
+        "count": 130,
+        "percentage": 25
+      },
+      {
+        "band": "\u20b914.1L - \u20b915.4L",
+        "count": 130,
+        "percentage": 25
+      },
+      {
+        "band": "\u20b915.4L - \u20b916.7L",
+        "count": 130,
+        "percentage": 25
+      }
+    ],
+    "seniorityBreakdown": [
+      {
+        "level": "Unknown",
+        "median": 1409500,
+        "min": 1150000,
+        "max": 1669000,
+        "count": 520,
+        "disclosedCount": 520,
+        "status": "sufficient"
+      }
+    ]
+  },
+  "skillsAndRequirements": {
+    "mustHaveSkills": [
+      {
+        "name": "Python",
+        "frequency": 520,
+        "percentage": 100
+      },
+      {
+        "name": "SQL",
+        "frequency": 520,
+        "percentage": 100
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Power BI",
+        "frequency": 520,
+        "percentage": 100
+      },
+      {
+        "name": "Tableau",
+        "frequency": 520,
+        "percentage": 100
+      },
+      {
+        "name": "dbt",
+        "frequency": 520,
+        "percentage": 100
+      }
+    ],
+    "typicalYearsExperience": 0,
+    "experienceDistribution": [
+      {
+        "bracket": "Unspecified",
+        "percentage": 100
+      }
+    ]
+  },
+  "employerCompetition": {
+    "topEmployers": [
+      {
+        "name": "Acme 0",
+        "openPositions": 104,
+        "marketSharePercent": 20,
+        "type": "Direct"
+      },
+      {
+        "name": "Acme 1",
+        "openPositions": 104,
+        "marketSharePercent": 20,
+        "type": "Direct"
+      },
+      {
+        "name": "Acme 2",
+        "openPositions": 104,
+        "marketSharePercent": 20,
+        "type": "Direct"
+      },
+      {
+        "name": "Acme 3",
+        "openPositions": 104,
+        "marketSharePercent": 20,
+        "type": "Direct"
+      },
+      {
+        "name": "Acme 4",
+        "openPositions": 104,
+        "marketSharePercent": 20,
+        "type": "Direct"
+      }
+    ],
+    "agencyVsDirect": {
+      "directPercent": 100,
+      "agencyPercent": 0
+    }
+  },
+  "observedTitles": [
+    {
+      "title": "Data Analyst 0",
+      "count": 1,
+      "sharePercent": 0
+    },
+    {
+      "title": "Data Analyst 1",
+      "count": 1,
+      "sharePercent": 0
+    },
+    {
+      "title": "Data Analyst 2",
+      "count": 1,
+      "sharePercent": 0
+    },
+    {
+      "title": "Data Analyst 3",
+      "count": 1,
+      "sharePercent": 0
+    },
+    {
+      "title": "Data Analyst 4",
+      "count": 1,
+      "sharePercent": 0
+    },
+    {
+      "title": "Data Analyst 5",
+      "count": 1,
+      "sharePercent": 0
+    },
+    {
+      "title": "Data Analyst 6",
+      "count": 1,
+      "sharePercent": 0
+    },
+    {
+      "title": "Data Analyst 7",
+      "count": 1,
+      "sharePercent": 0
+    }
+  ],
+  "confidenceInsights": [
+    {
+      "id": "conf-comp",
+      "category": "Compensation",
+      "claim": "Median disclosed compensation is 1409500 INR (IQR 1279250\u20131539750).",
+      "confidence": "High",
+      "confidenceScore": 90,
+      "confidenceRationale": "Computed from disclosed, normalized salaries only; missing and predicted values excluded.",
+      "evidencePostingCount": 520,
+      "evidencePercentage": 100.0,
+      "samplePostingIds": [
+        "adz-1159",
+        "adz-1347",
+        "adz-1418",
+        "adz-1067",
+        "adz-1325"
+      ]
+    },
+    {
+      "id": "conf-skills",
+      "category": "Skills",
+      "claim": "Python appears in 100% of analysed postings.",
+      "confidence": "High",
+      "confidenceScore": 90,
+      "confidenceRationale": "Skill mentions counted from posting titles/descriptions after alias normalization.",
+      "evidencePostingCount": 520,
+      "evidencePercentage": 100.0,
+      "samplePostingIds": [
+        "adz-1159",
+        "adz-1347",
+        "adz-1418",
+        "adz-1067"
+      ]
+    },
+    {
+      "id": "conf-demand",
+      "category": "Demand",
+      "claim": "520 unique relevant postings were analysed after deduplication.",
+      "confidence": "High",
+      "confidenceScore": 90,
+      "confidenceRationale": "Count is the unique posting ID set remaining after source-id and fingerprint deduplication.",
+      "evidencePostingCount": 520,
+      "evidencePercentage": 100.0,
+      "samplePostingIds": [
+        "adz-1159",
+        "adz-1347",
+        "adz-1418",
+        "adz-1067"
+      ]
+    }
+  ],
+  "clientRecommendations": {
+    "suggestedJobTitle": "Data Analyst",
+    "recommendedSalaryBand": {
+      "min": 1279250,
+      "max": 1539750,
+      "target": 1409500,
+      "currency": "INR",
+      "rationale": "Target is the disclosed median; band is the IQR of normalized annual pay."
+    },
+    "leadSkills": [
+      "Python",
+      "SQL"
+    ],
+    "jobDescriptionHook": "Hire a Data Analyst focused on Python, SQL.",
+    "strategicTakeaway": "Lead the requisition with the highest-frequency must-have skills and a median-aligned salary band."
+  },
+  "runNotes": {
+    "questionsAndAnswers": [],
+    "finalSearchPlan": {
+      "roleQuery": "Data Analyst",
+      "titleSynonyms": [
+        "Data Analyst",
+        "Business Intelligence Analyst",
+        "Analytics Engineer",
+        "Product Analyst"
+      ],
+      "locationScope": "Bangalore",
+      "radiusKm": 35,
+      "dateRangeDays": 30,
+      "targetPostingsCount": 200,
+      "keywords": [
+        "SQL",
+        "Python",
+        "Analytics"
+      ],
+      "negativeKeywords": [
+        "Internship",
+        "Data Entry",
+        "Unpaid"
+      ]
+    },
+    "postingsFetched": 520,
+    "postingsDeduplicated": 520,
+    "postingsAnalyzed": 520,
+    "dedupedDuplicatesCount": 0,
+    "executionTimeSeconds": 0.18,
+    "assumptionsMade": [
+      "Missing salaries are excluded, never imputed.",
+      "Currency conversion uses configured USD cross rates only.",
+      "Predicted Adzuna salaries are excluded."
+    ],
+    "dataSource": "Adzuna Jobs API"
+  }
+}

@@ -1,0 +1,1 @@
+# Market Scout FastAPI application

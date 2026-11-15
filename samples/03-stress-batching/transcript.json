@@ -1,0 +1,83 @@
+[
+  {
+    "event": "intake_initialized",
+    "timestamp": "2026-11-09T15:30:36.883359+00:00",
+    "request": {
+      "id": "cli-af8717db8f",
+      "role": "Senior ML Research Engineer",
+      "location": "San Francisco, CA",
+      "seniority": "Any",
+      "employmentType": "Any",
+      "workplaceType": "Any",
+      "currency": "USD",
+      "clientPurpose": "",
+      "focusAreas": [
+        "market"
+      ],
+      "createdAt": "2026-11-09T15:30:36.883359+00:00"
+    }
+  },
+  {
+    "event": "search_plan_approved",
+    "timestamp": "2026-11-09T15:30:36.943659+00:00",
+    "initialPlan": {
+      "roleQuery": "Senior ML Research Engineer",
+      "titleSynonyms": [
+        "Senior ML Research Engineer",
+        "Software Developer",
+        "Backend Engineer",
+        "Full Stack Engineer"
+      ],
+      "locationScope": "San Francisco, CA",
+      "radiusKm": 35,
+      "dateRangeDays": 30,
+      "targetPostingsCount": 200,
+      "keywords": [
+        "Machine Learning"
+      ],
+      "negativeKeywords": [
+        "Internship",
+        "Data Entry",
+        "Unpaid"
+      ]
+    },
+    "approvedPlan": {
+      "roleQuery": "Senior ML Research Engineer",
+      "titleSynonyms": [
+        "Senior ML Research Engineer",
+        "Software Developer",
+        "Backend Engineer",
+        "Full Stack Engineer"
+      ],
+      "locationScope": "San Francisco, CA",
+      "radiusKm": 35,
+      "dateRangeDays": 30,
+      "targetPostingsCount": 200,
+      "keywords": [
+        "Machine Learning"
+      ],
+      "negativeKeywords": [
+        "Internship",
+        "Data Entry",
+        "Unpaid"
+      ]
+    }
+  },
+  {
+    "event": "low_data_decision",
+    "timestamp": "2026-11-09T15:30:40.425302+00:00",
+    "decision": {
+      "action": "proceed_with_sparse"
+    }
+  },
+  {
+    "event": "completed",
+    "timestamp": "2026-11-09T15:30:40.468826+00:00",
+    "summary": "The San Francisco, CA market for Senior ML Research Engineer shows 4 unique postings in the analysed sample. Disclosed pay median is 0 USD with an IQR of 0–0. Hiring outlook is hard to fill based on volume and evidence quality.",
+    "hiringOutlook": {
+      "verdict": "Hard to fill",
+      "reason": "Based on 4 unique postings and 0.0% salary disclosure.",
+      "metricSummary": "4 unique postings · median 0 USD · disclosure 0.0%"
+    }
+  }
+]
